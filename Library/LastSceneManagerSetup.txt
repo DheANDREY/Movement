@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/CharacterMove.unity
+- path: Assets/Scenes/Fill_Dash.unity
   isLoaded: 1
   isActive: 1
